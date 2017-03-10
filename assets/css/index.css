@@ -206,7 +206,7 @@ b, strong {
   font-weight: 700;
 }
 p:first-letter, li:first-letter {
-  text-transform:uppercase;
+  text-transform: uppercase;
 }
 
 /* -----  1.4 Images & Figures  --------------------------------------------- */
@@ -220,12 +220,16 @@ figcaption {
   font-size: .75rem;
   line-height: 1.5rem;
 }
+.facats {
+  white-space: nowrap;
+}
 .cover-img {
   width: 100%; 
   height: 550px;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  margin-bottom: -100px;
 }
 .page.front {
   background: #7b4397; /* fallback for old browsers */
@@ -237,12 +241,14 @@ figcaption {
 .front h1 {
   font-size: 6em;
 }
+.main-logo {
+  position: absolute;
+  bottom: 80px;
+}
 .page.pad {
   padding: 100px;
 }
 .text-cont {
-  position: relative;
-  top: -100px; 
   background-color: #fff; 
   padding-top: 15px;
   padding-left: 20px; 
@@ -250,7 +256,7 @@ figcaption {
   margin-left: 100px; 
   margin-right: 100px;
   text-align: left;
-  margin-bottom: -80px;
+  position: relative;
 }
 .text-cont h1 {
   margin-right: 100px;
@@ -265,6 +271,7 @@ figcaption {
 .meta {
   margin-top: -10px;
   margin-bottom: 10px;
+  margin-right: 100px;
 }
 .meta .fa {
   padding-right: 5px;
@@ -306,5 +313,8 @@ figcaption {
   }
   .page.front {
     height: 100%;
+  }
+  ul {
+    page-break-inside: avoid; 
   }
 }
