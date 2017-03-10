@@ -1,0 +1,49 @@
+Title: Dabbawala
+
+----
+
+Typologie: Système de livraison de repas
+
+----
+
+Text: Système de livraison de repas de midi qui permet aux femmes (restées à la maison) d'envoyer à leur mari (au travail) un repas fait maison. Des livreurs viennent chercher les repas à domicile, se retrouvent à des centres nevralgiques et s'échangent des plats. Ils les livrent au travail, puis reviennent chercher les dabbas vides pour les ramener à leur point de départ. Le système n'utilise aucune technologie et est effectué par des opérateurs qui sont souvent analphabètes, mais fonctionne incroyablement bien. Environ 200 000 repas sont livrés chaque jour par 5000 dabbawalas. Ce système existe depuis plus de 125 ans.
+
+----
+
+Retenir: 
+
+- règles simples peuvent permettre un système complexe 
+- économie d'échelle (plus il y a de gens, plus le système est efficace) 
+- basé sur l'amour de la cuisine maison > favoriser la 'cuisine à domicile' 
+- chacun est responsable à son échelle de la réussite du système / très peu de hiérarchie
+
+----
+
+Facteurs: 
+
+- grand nombre de clients et de livreurs 
+- système d'organisation clair
+
+----
+
+Ou: Inde (surtout Mumbai)
+
+----
+
+Theurl: https://en.wikipedia.org/wiki/Dabbawala
+
+----
+
+Pic: http://popupcity.net/wp-content/uploads/2010/01/Dabawalla.jpg
+
+----
+
+Logo: https://logopond.com/logos/690063795c81488ee00f4f6ea1ece879.png
+
+----
+
+Mission: 
+
+----
+
+Thecat: passage-a-l-echelle, y-solidaire

@@ -1,0 +1,48 @@
+Title: Virgin Active 'pack'
+
+----
+
+Typologie: Cours de spinning augmenté
+
+----
+
+Text: Un cours de gym dans lequel les participants font la course les uns contre les autres (en groupes). Différentes phases permettent différents niveaux de dépense d'énergie. Un écran permet de suivre de manière interactive.
+
+----
+
+Retenir: 
+
+- compétition (mais aussi coopération) > pas individuel 
+- le côté 'arcade'
+- pas seulement un parcours de vélo, mais aussi de la visualisation de données
+
+----
+
+Facteurs: 
+
+- partenariat technologique (Moment Factory / Ubisoft ?) 
+- investissement sur vélos augmentés
+
+----
+
+Ou: UK
+
+----
+
+Theurl: https://www.virginactive.co.uk/classes/the-pack
+
+----
+
+Pic: https://s3-eu-central-1.amazonaws.com/centaur-wp/designweek/prod/content/uploads/2016/05/23115159/VirginActive_studiolayout21.jpeg
+
+----
+
+Logo: http://media-assets-04.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-85019-virginactive_logo--2x1--940.jpg
+
+----
+
+Thecat: lab, y-solidaire
+
+----
+
+Mission: 

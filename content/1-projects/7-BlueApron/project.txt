@@ -1,0 +1,49 @@
+Title: Blue Apron
+
+----
+
+Typologie: Ingrédients frais livrés à domicile
+
+----
+
+Text: Blue Apron livre des ingrédients frais à domicile (et les recettes qui vont avec) pour cuisiner des plats (<30 minutes de préparation).
+
+----
+
+Retenir: 
+
+- pas des plats préparés mais juste les ingrédients qu'il faut (apparament, les gens qui commandent cuisinent plus+ à côté aussi)
+- discours intéressant sur la réduction du gachis / amélioration de la chaine de livraison (pas seulement pratique) 
+- shop avec plein de produits de cuisine de base 
+- système d'abonnement pour assurer la récurrence
+
+----
+
+Facteurs: 
+
+- maitrise de la chaine d'approvisionnement (producteurs, etc.) 
+- capacité de passage à l'échelle rapide (marketing et communication)
+
+----
+
+Ou: USA
+
+----
+
+Theurl: https://www.blueapron.com/
+
+----
+
+Pic: http://cdn.pymnts.com/wp-content/uploads/2016/10/Blue-Apron-IPO-Walk.jpg
+
+----
+
+Logo: https://assets.pcmag.com/media/images/506477-blue-apron.jpg?thumb=y&width=333&height=245
+
+----
+
+Thecat: passage-a-l-echelle, y-solidaire
+
+----
+
+Mission: 

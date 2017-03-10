@@ -1,0 +1,50 @@
+Title: Peloton
+
+----
+
+Typologie: Vélo stationnaire avec écran intégré
+
+----
+
+Text: L'écran permet de participer à des séances de spinning 'live' (avec comparaison des performances avec les autres participants) ou de faire des séances 'à la demande'. Vise plutôt le marché 'home fitness' high end (2000$ quand-même pour le vélo).
+
+----
+
+Retenir: 
+
+- modèle 'live' ou 'à la demande' 
+- gamification 
+- valorisation des cours qui sont donnés dans leur studio de NYC en faisant du live-stream 
+- merch en plus 
+- vidéos aussi dans la nature
+
+----
+
+Facteurs: 
+
+- capacités de développement hardware (ou partenariats) 
+- capacités de développement software
+
+----
+
+Ou: USA etc
+
+----
+
+Theurl: https://www.pelotoncycle.com/
+
+----
+
+Pic: https://dmb3ount55sfc.cloudfront.net/products/bike/bike-angled-1162.jpg
+
+----
+
+Logo: https://assets.themuse.com/uploaded/companies/243/small_logo.png
+
+----
+
+Thecat: lab, y-solidaire
+
+----
+
+Mission: 

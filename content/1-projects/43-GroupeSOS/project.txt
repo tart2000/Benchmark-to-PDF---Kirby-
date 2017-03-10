@@ -1,0 +1,50 @@
+Title: Groupe SOS
+
+----
+
+Typologie: Première entreprise sociale européenne. Couvre une grande variété de projets
+
+----
+
+Text: Innovation sociale autour de 5 secteurs : la jeunesse, l’emploi, les solidarités, la santé et les seniors. Avec 15 000 salariés et 405 établissements et services.
+
+----
+
+Retenir: 
+
+- Chaque entreprise sociale adhère au groupement d'intérêt Economique (GIE) qui propose une offre de prestations spécialisées dans plusieurs domaines clés (gestion comptable, financière et budgétaire, conseil juridique, etc.)
+- Structure d’expertise immobilière (Alterna) (société coopérative SARL et holding des inc du réseau)
+- multiples initiatives et partenariats (comptoir de l'innovation, Mouves, Mouvement UP, etc.) 
+- Standardisation de ce qui peut l'être (EPADs) et liberté d'action pour les autres acteurs
+
+----
+
+Facteurs: 
+
+- Grandes connexions (politiques et territoriales) 
+- Culture de la croissance 
+- Standardisation de certaines activités 'lucratives'
+
+----
+
+Ou: France
+
+----
+
+Theurl: http://www.groupe-sos.org/
+
+----
+
+Pic: http://www.groupe-sos.org/media/img/pages/300/0/afghanistan-7e2c.jpg
+
+----
+
+Logo: http://www.groupe-sos.org/images/logo-groupe-sos-2013.png
+
+----
+
+Mission: 
+
+----
+
+Thecat: passage-a-l-echelle, y-communaute, y-infrastructure, y-solidaire

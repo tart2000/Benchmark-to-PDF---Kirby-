@@ -1,0 +1,310 @@
+@charset "UTF-8";
+/*
+  # Kirby Starterkit
+  
+  This CSS file handles all of the styling in of Kirby’s
+  Starterkit. Feel free to tinker around with it and
+  adjust it according to your needs.  
+  
+  ## Color Definitions
+  
+  The following colors used in the Starterkit. If you want
+  to use this CSS file as a starting point for your own
+  project, you can do a simple search & replace to adjust
+  the color scheme to your needs.
+  
+  - Background:            #fffff8
+  - Text:                  #261e66
+  - Hovered Links:         #560bed
+  - Active Button BG:      #4509be
+  - Caption BG in projects
+    showcase:              rgba(38, 30, 102, .95)
+
+  - Highlight, Selection,
+    Link Underline:        #71efac
+  - Tap color
+    (touch devices):       rgba(113, 239, 172, .5)
+  - Marked Text BG,
+    Callout Boxes BG:      #eafded
+
+  - Menu Separator,
+    <hr> in text:          #a8a5be
+  - Blockquote BG:         #fffffd
+  
+  ## Table of Contents
+  
+  1 Global Rules & Definitions
+  1.1 Font Definitions
+  1.2 Reset & Normalization
+  1.3 General Typography
+  1.4 Images & Figures
+  
+  2 Layout Helpers & Reusable Components
+  2.1 Kirbytext
+  2.2 Button
+  2.3 Grid & Layout
+  2.4 Pagination
+  2.5 Projects Showcase
+  
+  3 Site Layout
+  3.1 Header
+  3.2 Menu
+  3.3 Sticky Footer
+  3.4 Main Content
+  
+  4 Template-specific Components
+  4.1 Homepage
+  4.2 Blog Article
+  4.3 Team
+  4.4 Contact
+  
+*/
+
+/* =====  1 Global Rules & Definitions  ===================================== */
+
+/* -----  1.1 Font Definitions  --------------------------------------------- */
+
+/* Montserrat */
+@font-face {
+  font-family: 'Montserrat';
+  src: url(../fonts/montserrat-700.woff) format("woff");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url(../fonts/montserrat-400.woff) format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Vesper Libre */
+@font-face {
+  font-family: 'Vesper Libre';
+  src: url(../fonts/vesperlibre-400.woff) format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Vesper Libre';
+  src: url(../fonts/vesperlibre-500.woff) format("woff");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Vesper Libre';
+  src: url(../fonts/vesperlibre-700.woff) format("woff");
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* -----  1.2 Reset & Normalization  ---------------------------------------- */
+
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  border: none;
+  box-sizing: border-box;
+  list-style: none;
+}
+
+article, aside, details, figcaption, figure,
+footer, header, main, menu, nav, section, summary {
+  /* Add correct display for IE 9- and some newer browsers */
+  display: block;
+}
+
+::-moz-selection {
+  background: #71efac;
+  color: #261e66;
+}
+
+::selection {
+  background: #71efac;
+  color: #261e66;
+}
+
+/* -----  1.3 General Typography  ------------------------------------------- */
+
+h1, h2, h3, h4, h5, h6,
+p, ul, ol, figure, pre {
+  /* Reset font-sizes and normalize margins */
+  font-size: inherit;
+  line-height: inherit;
+}
+
+/* Headings */
+h1, h2, h3 {
+  font-family: Montserrat, Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 2.5rem;
+  line-height: 1.25;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-size: 1.75rem;
+  line-height: 2.2rem;
+}
+
+h3 {
+  font-size: 1.25em;
+  line-height: 1.2;
+}
+
+h4 {
+  font-size: 1em;
+}
+
+p, a, ul, li {
+  font-family: 'Montserrat'; 
+}
+ul {
+  padding-top: 5px;
+}
+li {
+  list-style-type: disc;
+  margin-left: 15px;
+}
+hr {
+  color: #000;
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+}
+
+/* Links */
+a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 2px solid #71efac;
+}
+
+a:hover, a:focus, a:active {
+  color: #560bed;
+}
+
+i, em {
+  /* Vesper Libre does not have Italics,
+     so we use a the *medium* weight instead */
+  font-weight: 500;
+  font-style: normal;
+}
+
+b, strong {
+  font-weight: 700;
+}
+p:first-letter, li:first-letter {
+  text-transform:uppercase;
+}
+
+/* -----  1.4 Images & Figures  --------------------------------------------- */
+
+img {
+  border-style: none;
+  height: auto;
+}
+
+figcaption {
+  font-size: .75rem;
+  line-height: 1.5rem;
+}
+.cover-img {
+  width: 100%; 
+  height: 550px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.page.front {
+  background: #7b4397; /* fallback for old browsers */
+  background: -webkit-linear-gradient(-45deg, #7b4397 , #dc2430); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(-45deg, #7b4397 , #dc2430); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color: white;
+  height: 100%;
+}
+.front h1 {
+  font-size: 6em;
+}
+.page.pad {
+  padding: 100px;
+}
+.text-cont {
+  position: relative;
+  top: -100px; 
+  background-color: #fff; 
+  padding-top: 15px;
+  padding-left: 20px; 
+  padding-right: 20px; 
+  margin-left: 100px; 
+  margin-right: 100px;
+  text-align: left;
+  margin-bottom: -80px;
+}
+.text-cont h1 {
+  margin-right: 100px;
+}
+.logo {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  max-width: 80px;
+  max-height: 120px;
+}
+.meta {
+  margin-top: -10px;
+  margin-bottom: 10px;
+}
+.meta .fa {
+  padding-right: 5px;
+}
+.todo {
+  background-color: #f5f5f5;
+  padding: 15px;
+  margin-top: 15px;
+  margin-left: -15px; 
+  margin-right: -15px;
+}
+.counter {
+  width: 50px;
+  height: 50px;
+  color: white;
+  background-color: purple; 
+  text-align: center; 
+  font-family: 'Helvetica';
+  font-size: 30px;
+  padding-top: 5px;
+}
+.cats {
+  position: relative;
+  width: 100%;
+  top: -40px;
+  text-align: center;
+}
+.cat-title {
+  font-family: 'Montserrat';
+}
+/* Print */ 
+
+@media print {
+  html, body {
+    height: 100%;
+  }
+  .page {
+    page-break-after: always;
+  }
+  .page.front {
+    height: 100%;
+  }
+}

@@ -1,0 +1,45 @@
+Prevnext: 
+
+----
+
+Title: ÉAU
+
+----
+
+Thecat: lab, y-communaute, y-infrastructure, y-solidaire
+
+----
+
+Logo: https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAYUAAAAJDY2MGE0YWVmLWRjODgtNGU4NC04MGM4LTUzNGIxMTE0Y2NlZA.png
+
+----
+
+Theurl: http://www.eau-agriculture.com/
+
+----
+
+Typologie: Système d'aquaponie
+
+----
+
+Pic: http://www.eau-agriculture.com/en/wp-content/uploads/2017/01/serre-%C3%A9au-cathon.png
+
+----
+
+Ou: Montréal
+
+----
+
+Mission: 
+
+----
+
+Text: ÉAU (Écosystèmes Alimentaires Urbains) est une entreprise d’agriculture urbaine spécialisée en aquaponie : un système novateur et écologique de production alimentaire. Ils développent des fermes aquaponiques verticales qui produisent des aliments frais, sains et locaux – des légumes, des fruits et du poisson – toute l’année.
+
+----
+
+Retenir: 
+
+- mission sociale clairement exprimée 
+- implication dans des communautés dans le besoin (déserts alimentaires) 
+- technique moderne

@@ -1,0 +1,50 @@
+Title: Pieds Carrés
+
+----
+
+Typologie: Espaces pour un collectif d'entreprises créatives et culturelles
+
+----
+
+Text: Le projet a vu le jour pour contrebalancer l'augmentation des loyers de manière exponentielle dans des quartiers centraux de Montréal. L'objet de la négociation avec des propriétaires immobiliers a été déclenché suite au moratoire posé par la Ville sur l'augmentation de loyer possible si l'immeuble proposait au minimum 15% de sa surface à des tarifs protégés pour les entreprises culturelles. Le tout a permis de conserver une mixité nécessaire dans le quartier et en fait aujourd'hui le 1er quartier créatif au Canada.
+
+----
+
+Retenir: 
+
+- Obligation règlementaire qui a déclenché la mise en place du projet
+- Les espaces collectifs de 350.000 pi2 sont gérés par une OBNL spécialisée dans la gestion immobilière collective (Ateliers Créatifs)
+- Les espaces comprennent des loyers planchers pour les artistes et entrepreneurs culturels et des loyers dit solidaires qui sont plus chers mais encore au-dessous du prix du marché. 
+- Les immeubles sont maintenant entièrement rénovés
+
+----
+
+Facteurs: 
+
+- La gestion confiée à un professionnel
+- Le partenariat d'entente avec le propriétaire de l'immeuble sur un bail à long terme (35 ans)
+- La rentabilisation du projet par un équilibre entre loyers modiques et loyers solidaires
+
+----
+
+Ou: Montréal
+
+----
+
+Theurl: http://www.piedcarre.org
+
+----
+
+Pic: http://media2.ledevoir.com/images_galerie/de_247710_172692/image.jpg
+
+----
+
+Logo: https://pbs.twimg.com/profile_images/1184174004/pi2_logo_noir_blanc_no_text.jpg
+
+----
+
+Mission: 
+
+----
+
+Thecat: passage-a-l-echelle, y-infrastructure

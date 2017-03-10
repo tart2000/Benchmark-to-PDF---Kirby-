@@ -1,0 +1,47 @@
+Title: ClassPass
+
+----
+
+Typologie: App avec abonnement
+
+----
+
+Text: Une application qui permet d'avoir un abonnement unique vers plein d'activités sportives dans différents centres partenaires.
+
+----
+
+Retenir: 
+
+- déplacement de la création de valeur vers la relation client 
+- guichet unique
+
+----
+
+Facteurs: 
+
+- partenariat avec plein de centres sportifs 
+- canaux de distribution pour aller au plus près des clients
+
+----
+
+Ou: USA etc. 39 villes au total
+
+----
+
+Theurl: https://classpass.com/get
+
+----
+
+Pic: https://cdn0.vox-cdn.com/uploads/chorus_asset/file/2941292/classpass-1.0.jpg
+
+----
+
+Logo: http://www.mamachallenge.com/wp-content/uploads/2015/01/CDWN11-e1422601940511.png
+
+----
+
+Thecat: lab, y-solidaire
+
+----
+
+Mission: 

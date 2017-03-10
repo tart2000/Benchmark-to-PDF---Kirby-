@@ -1,0 +1,49 @@
+title: Project
+
+files:
+  sortable: true
+
+pages: false
+
+fields:
+  prevnext: prevnext
+  title:
+    label: Title
+    type:  text
+  thecat: 
+    label: Category
+    type: checkboxes 
+    options: query
+    query: 
+      page: categories
+      fetch: children 
+  logo:
+    label: Logo
+    type: Url
+    width: 1/2
+  theurl: 
+    label: Link
+    type: Url
+    width: 1/2
+  typologie:
+    label: Typologie
+    type: text
+    width: 1/2
+  pic:
+    label: Picture
+    type: Url
+    width: 1/2
+  ou: 
+    label: Location
+    type: text
+    width: 1/2
+  mission: 
+    label: Mission
+    type: text
+    width: 1/2
+  text:
+    label: Text
+    type:  textarea
+  retenir: 
+    label: À retenir 
+    type: textarea

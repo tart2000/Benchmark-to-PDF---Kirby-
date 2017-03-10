@@ -1,0 +1,51 @@
+Title: Temps Libre
+
+----
+
+Typologie: espace de coworking et espace communautaire gratuit
+
+----
+
+Text: Fondée en 2015 par des organisations passionnées par le développement territorial et social, la Coopérative de solidarité Temps libre est une structure collective de développement immobilier conçue pour créer des espaces ouverts, inclusifs et participatifs ancrés dans les quartiers et les collectivités. La coopérative sans but lucratif sert de levier économique et organisationnel pour concevoir et gérer des lieux dédiés à un public mixte.
+
+----
+
+Retenir: 
+
+- ambition de créer un réseau de lieux. Mile End est le premier (prototype). D'autres lieux pourraient s'appuyer sur autre chose que le coworking 
+- ancré dans la théorie 'tiers lieu' originale 
+- accès gratuit pour événements gratuits (et sans inscription) mais payant dans d'autres cas (possibilité de déposer une demande de gratuité cependant)
+
+----
+
+Facteurs: 
+
+- partenariats (financiers et de service) 
+- activité génératrice de revenus en parallèle (ici, coworking)
+- bail négocié sur le très long terme 
+- animation de communauté 
+- utilisateurs payants engagés qui acceptent de 'payer un peu plus'
+
+----
+
+Ou: Mile End, Montréal
+
+----
+
+Theurl: http://tempslibre.coop/
+
+----
+
+Pic: http://www.ensemble.coop/wp-content/uploads/DSC0008-759x500.jpg
+
+----
+
+Logo: https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAW4AAAAJGQ5ZWI3YjQwLWJiMTItNDVlZi1hNTE4LTZkZDlhZmRlOTZkYg.png
+
+----
+
+Mission: 
+
+----
+
+Thecat: lab, passage-a-l-echelle, y-infrastructure
