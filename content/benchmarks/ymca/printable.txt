@@ -1,0 +1,22 @@
+Title: Home
+
+----
+
+Intro: Fiches projets du benchmark YMCA
+
+----
+
+Text: 
+
+##50+ projets ! 
+
+Le benchmark reprend les points d'intérêt pour chacun des projets étudiés.
+
+----
+
+End: 
+
+Compilation Rhizome + YMCA 
+
+- Arthur Schmitt
+- Christophe Billebaud
