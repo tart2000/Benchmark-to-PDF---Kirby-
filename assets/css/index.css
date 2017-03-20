@@ -165,7 +165,12 @@ h4 {
 
 p, a, ul, li {
   font-family: 'Montserrat'; 
+  font-size: 12px;
 }
+p {
+  margin-bottom: 10px;
+}
+
 ul {
   padding-top: 5px;
 }
@@ -241,13 +246,20 @@ figcaption {
   background-blend-mode: overlay;
   color: white;
   height: 100%;
+  min-height: 700px;
 }
 .front h1 {
   font-size: 4em;
+  margin-top: 200px;
 }
 .main-logo {
   position: absolute;
-  bottom: 80px;
+  bottom: 60px;
+}
+.page {
+  width: 148mm;
+  margin-left: auto;
+  margin-right: auto; 
 }
 .page.pad {
   padding: 60px;
@@ -300,7 +312,6 @@ figcaption {
 .cats {
   position: relative;
   width: 100%;
-  top: -40px;
   text-align: center;
 }
 .cat-title {
@@ -313,14 +324,13 @@ figcaption {
     height: 100%;
   }
   @page {
-    size: A5;
-    margin:0;
+    size: A5; 
   }
-  @page :right {
-    text-align: right;
+  @page .pad {
+    margin: 1.0cm;
   }
-  @page :left {
-    text-align: left; 
+  @page :first {
+    margin: 0cm;
   }
   .page {
     page-break-after: always;
@@ -328,7 +338,7 @@ figcaption {
   .page.front {
     height: 100%;
   }
-  ul {
+  ul, p {
     page-break-inside: avoid; 
   }
 }

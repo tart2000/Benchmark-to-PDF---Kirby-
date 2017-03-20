@@ -1,9 +1,5 @@
-Title: Projets
+Title: Lieux visités
 
 ----
 
-Text: 
-
-Les 60+ projets présentés ici correspondent au coeur de la recherche et leur analyse a servi à construire les déterminants et les recommandations. Ils montrent volontairement un grand champ des possibles, du centre de sport communautaire à l'agriculture urbaine, en passant par des dispositifs technologiques. 
-
-Nous avons tenté de mettre en lumière, sur chaque projet, les points qui nous paraissaient importants à noter dans le cadre du projet de refonte des modèles d'affaire du YMCA.
+Text: Cette Learning Expedition fait le tour de 3 espaces à Montréal qui développent, chacun à leur manière, l'innovation ouverte.

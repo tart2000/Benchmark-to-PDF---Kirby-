@@ -1,9 +1,4 @@
 <div class="cover-img" style="background-image:url(<?php echo $p->pic() ?>)">
-  <?php if ($counter !='') : ?>
-    <div class="counter">
-      <?php echo $counter?>
-    </div>
-  <?php endif ?>
   <?php if ($p->thecat() != '') : ?>
     <div class="cats">
       <?php foreach ($p->thecat()->split() as $thecat) : ?> <!-- liste des catégories -->
@@ -23,9 +18,18 @@
   <?php endif ?>
   <h1><?php echo $p->title() ?></h1>
   <div class="meta">
-    <strong><p><?php echo $p->typologie() ?></p></strong>
-    <p><i class="fa fa-map-marker"></i><?php echo $p->ou() ?></p>
-    <a href="<?php echo $p->theurl() ?>"><?php echo $p->theurl() ?></a>
+    <?php if ($p->typologie() != '') : ?>
+      <strong><p><?php echo $p->typologie() ?></p></strong>
+    <?php endif ?>
+    <?php if ($p->qui() != '') : ?>
+      <p><i class="fa fa-user"></i> <?php echo $p->qui() ?></p>
+    <?php endif ?>
+    <?php if ($p->ou() != '') : ?>
+      <p><i class="fa fa-map-marker"></i> <?php echo $p->ou() ?></p>
+    <?php endif ?>
+    <?php if ($p->theurl() != '') : ?>
+      <a href="<?php echo $p->theurl() ?>"><?php echo $p->theurl() ?></a>
+    <?php endif ?>
   </div>
   <?php echo $p->text()->kirbytext() ?>
   <?php if ($p->retenir() != '') : ?>

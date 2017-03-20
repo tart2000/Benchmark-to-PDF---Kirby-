@@ -17,6 +17,9 @@ fields:
     query: 
       page: categories
       fetch: children 
+  qui: 
+    label: Qui ? 
+    type: text 
   logo:
     label: Logo
     type: Url

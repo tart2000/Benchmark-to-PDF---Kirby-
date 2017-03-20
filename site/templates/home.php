@@ -17,12 +17,10 @@
       <h1><?php echo $pa->title() ?></h1>
         <?php echo $pa->text()->kirbytext() ?>
     </div>
-    <?php $counter = 1 ?>
     <?php foreach ($pa->children() as $p) : ?> <!-- pages projet -->
       <div class="page">
-        <?php snippet('project', array('p'=>$p,'counter'=>$counter)) ?>
+        <?php snippet('project', array('p'=>$p)) ?>
       </div>
-      <?php $counter++ ?>
     <?php endforeach ?>
 
   <?php else : ?>
