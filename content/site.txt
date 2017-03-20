@@ -1,12 +1,12 @@
-Title: Fiches projet - Benchmark YMCA
+Title: Learning Expedition Agropur
 
 ----
 
-Author: Bastian Allgeier GmbH
+Author: Arthur Schmitt
 
 ----
 
-Description: This is Kirby's Starterkit.
+Description: 
 
 ----
 
