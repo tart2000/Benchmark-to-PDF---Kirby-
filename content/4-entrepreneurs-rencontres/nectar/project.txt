@@ -1,0 +1,52 @@
+Prevnext: 
+
+----
+
+Title: Nectar
+
+----
+
+Thecat: 
+
+----
+
+Qui: Marc-André Roberge
+
+----
+
+Logo: http://static1.squarespace.com/static/5754533555598617f52d7d0c/t/582fb67e6b8f5bca572ab4c9/1490032815524/?format=1500w
+
+----
+
+Theurl: http://nectar.buzz
+
+----
+
+Typologie: Système de soutien à l'apiculture
+
+----
+
+Pic: https://i.ytimg.com/vi/GQ2MW-JedY8/maxresdefault.jpg
+
+----
+
+Ou: 
+
+----
+
+Mission: 
+
+----
+
+Text: 
+
+La mission de Nectar est de donner une voix aux abeilles pour qu'elles puissent guider les individus qui en prennent soin dans le but de réduire les pertes de colonies.
+Ils visent à rapprocher les apiculteurs et leurs abeilles grâce à des technologies conviviales, accessibles et interactives.
+
+----
+
+Retenir: 
+
+- Interface conversationnelle pour rendre les données intelligibles 
+- Phase de Beta avec des partenaires locaux 
+- Socio-financement en prévision

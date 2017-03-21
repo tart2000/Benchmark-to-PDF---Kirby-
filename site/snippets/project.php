@@ -1,4 +1,13 @@
-<div class="cover-img" style="background-image:url(<?php echo $p->pic() ?>)">
+<?php 
+  if ($p->pic() !='') {
+    $image = $p->pic();
+  } else if ($p->hasImages()) {
+    $image = $p->images()->first()->url(); 
+  }
+    
+?>
+
+<div class="cover-img" style="background-image:url(<?php echo $image ?>)">
   <?php if ($p->thecat() != '') : ?>
     <div class="cats">
       <?php foreach ($p->thecat()->split() as $thecat) : ?> <!-- liste des catégories -->

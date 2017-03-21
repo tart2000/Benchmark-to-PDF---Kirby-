@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
 
-<header class="page pad front" 
+<header class="page front" 
   <?php if ($page->hasImages()) : ?>
     style="background-image:url('<?php echo $page->images()->first()->url() ?>')"
   <?php endif ?>
@@ -18,7 +18,7 @@
         <?php echo $pa->text()->kirbytext() ?>
     </div>
     <?php foreach ($pa->children() as $p) : ?> <!-- pages projet -->
-      <div class="page">
+      <div class="page project">
         <?php snippet('project', array('p'=>$p)) ?>
       </div>
     <?php endforeach ?>
