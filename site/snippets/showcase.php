@@ -1,6 +1,7 @@
 <?php
 
-$projects = page('projects')->children()->visible();
+$projects = page('projects')->children()->visible()->paginate(30);
+$pagination = $projects->pagination();
 
 /*
 
@@ -20,21 +21,35 @@ if(isset($limit)) $projects = $projects->limit($limit);
 
 ?>
 
-<ul class="showcase grid gutter-1">
-
+<div class="row">
   <?php foreach($projects as $project): ?>
-
-    <li class="showcase-item column">
-        <a href="<?= $project->url() ?>" class="showcase-link">
-          <?php if($image = $project->images()->sortBy('sort', 'asc')->first()): $thumb = $image->crop(600, 600); ?>
-            <img src="<?= $thumb->url() ?>" alt="Thumbnail for <?= $project->title()->html() ?>" class="showcase-image" />
-          <?php endif ?>
-          <div class="showcase-caption">
-            <h3 class="showcase-title"><?= $project->title()->html() ?></h3>
-          </div>
-        </a>
-    </li>
-
+    <?php snippet('project-item', array('project'=>$project)) ?>
   <?php endforeach ?>
+</div>
 
-</ul>
+<div class="row center">
+  <nav aria-label="Page navigation">
+    <ul class="pagination">
+
+      <?php if($pagination->hasPrevPage()): ?>
+        <li><a href="<?php echo $pagination->prevPageURL() ?>">&laquo;</a></li>
+      <?php else: ?>
+        <li class="disabled"><span>&laquo;</span></li>
+      <?php endif ?>
+
+      <?php foreach($pagination->range(10) as $r): ?>
+        <li<?php if($pagination->page() == $r) echo ' class="active"' ?>>
+          <a href="<?php echo $pagination->pageURL($r) ?>">
+            <?php echo $r ?>
+          </a>
+        </li>
+      <?php endforeach ?>
+
+      <?php if($pagination->hasNextPage()): ?>
+        <li class=""><a href="<?php echo $pagination->nextPageURL() ?>">&raquo;</a></li>
+      <?php else: ?>
+        <li class="disabled"><span>&raquo;</span></li>
+      <?php endif ?>
+    </ul>
+  </nav>
+</div>

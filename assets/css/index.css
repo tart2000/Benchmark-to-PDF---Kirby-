@@ -177,7 +177,7 @@ hr {
   color: #000;
   display: block;
   margin-top: 1em;
-  margin-bottom: 1em;
+  margin-bottom: 30px !important;
   margin-left: auto;
   margin-right: auto;
   border-style: inset;
@@ -208,6 +208,9 @@ b, strong {
 p:first-letter, li:first-letter {
   text-transform: uppercase;
 }
+a p {
+  color: black;
+}
 
 /* -----  1.4 Images & Figures  --------------------------------------------- */
 
@@ -220,6 +223,18 @@ figcaption {
   font-size: .75rem;
   line-height: 1.5rem;
 }
+/* General */
+
+.mt {
+  margin-top: 15px; 
+}
+.mb {
+  margin-bottom: 15px; 
+}
+.center {
+  text-align: center
+}
+
 .facats {
   white-space: nowrap;
 }
@@ -312,6 +327,18 @@ figcaption {
   background-position: center;
 }
 
+/* Project thumbs */
+.project-thumb {
+  width: 100%;
+  height: 180px;
+  background-color: orange;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.thumb-meta {
+  height: 150px;
+}
 
 /* Print */ 
 

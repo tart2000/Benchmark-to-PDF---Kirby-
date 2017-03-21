@@ -29,18 +29,24 @@ fields:
     label: Typologie
     type: text
     width: 1/2
-  pic:
-    label: Picture
-    type: Url
-    width: 1/2
   ou: 
     label: Location
     type: text
     width: 1/2
+  pic:
+    label: Picture (link)
+    type: Url
+    width: 1/2
+  postImage:
+    label: Main image (if no link)
+    type:  selector
+    mode:  single
+    types:
+      - image
+    width: 1/2
   mission: 
     label: Mission
     type: text
-    width: 1/2
   text:
     label: Text
     type:  textarea

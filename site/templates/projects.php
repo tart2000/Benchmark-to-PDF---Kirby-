@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
 
-  <main class="main" role="main">
+  <div class="container">
 
     <header class="wrap">
       <h1><?= $page->title()->html() ?></h1>
@@ -9,11 +9,9 @@
       </div>
       <hr />
     </header>
-      
-    <div class="wrap wide">    
-      <?php snippet('showcase') ?>
-    </div>
+        
+    <?php snippet('showcase') ?>
 
-  </main>
+  </div>
 
 <?php snippet('footer') ?>

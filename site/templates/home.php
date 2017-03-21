@@ -3,7 +3,7 @@
 <?php $projects = page('projects')->children()->limit(4) ?>
 <?php snippet('carousel', array('projects'=>$projects)) ?>
 
-<div class="container">
+<div class="container mt">
   <?php snippet('categories') ?>
 </div>
 
